@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class MagicChair {
+public class MagicChair {
+    MagicChair(){System.out.println("Магический стул использован");}
 }

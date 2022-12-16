@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class MultiFuncChair {
+public class MultiFuncChair {
+    MultiFuncChair(){System.out.println("Многофункциональный стул использован");}
 }

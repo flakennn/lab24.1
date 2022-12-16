@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class VictorianChair {
+public class VictorianChair {
+    VictorianChair(){System.out.println("Викторианский стул использован");}
 }
